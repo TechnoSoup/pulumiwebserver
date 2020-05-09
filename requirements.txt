@@ -1,0 +1,16 @@
+Arpeggio==1.9.2
+attrs==19.3.0
+click==7.1.2
+dill==0.3.1.1
+Flask==1.1.2
+grpcio==1.28.1
+itsdangerous==1.1.0
+Jinja2==2.11.2
+MarkupSafe==1.1.1
+parver==0.3.0
+protobuf==3.11.3
+pulumi==2.1.0
+pulumi-aws==2.3.0
+semver==2.10.0
+six==1.14.0
+Werkzeug==1.0.1
